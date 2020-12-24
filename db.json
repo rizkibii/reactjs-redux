@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Rizkif",
+      "alamat": "Cilacap",
+      "umur": 24,
+      "noHp": "0852132131223"
+    },
+    {
+      "id": 2,
+      "nama": "Santo",
+      "alamat": "Banyumas",
+      "umur": 23,
+      "noHp": "0852132324234"
+    },
+    {
+      "id": 3,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 4,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 5,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 6,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 7,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 8,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 9,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 10,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 11,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    },
+    {
+      "id": 12,
+      "nama": "Daplun",
+      "alamat": "Kebumen",
+      "umur": 22,
+      "noHp": "0852132139098"
+    }
+  ]
+}
